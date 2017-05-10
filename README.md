@@ -1,2 +1,3 @@
 # hello-world
-My first repos as I learn to code!
+
+I am a former school teacher, now professional (Argentine) Tango dancer and instructor who wants to learn how to code! :-D
